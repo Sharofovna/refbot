@@ -1,1 +1,1 @@
-worker: python refbot.py
+worker: python bot.py
